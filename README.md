@@ -50,10 +50,6 @@ This project utilizes the DALL-E-mini model to generate images based on textual 
 
 3. **Output**: The generated image will be saved to a specified directory.
 
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ### Acknowledgments
 
 - This project utilizes the DALL-E-mini model developed by OpenAI.
